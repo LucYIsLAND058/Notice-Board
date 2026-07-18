@@ -38,8 +38,7 @@ export default function ImminentBanner({ posts, onSelectPost }: ImminentBannerPr
             <Sparkles className="w-5 h-5 text-emerald-600 animate-pulse" />
           </div>
           <div>
-            <span className="font-semibold text-emerald-900 block sm:inline mr-1">평화로운 학급입니다 🌸</span>
-            <span className="text-sm text-emerald-700">3일 이내에 예정된 임박 일정이 없습니다. 여유롭게 학습해 보세요!</span>
+            <span className="font-semibold text-emerald-950 text-sm">3일 이내 예정된 일정이 없습니다</span>
           </div>
         </div>
       </motion.div>
