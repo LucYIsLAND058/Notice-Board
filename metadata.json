@@ -1,0 +1,6 @@
+{
+  "name": "학급 게시판",
+  "description": "일정 등록, D-day 계산 및 검색 기능이 있는 직관적이고 깔끔한 학급 게시판 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
